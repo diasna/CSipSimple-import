@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="w_sipgate_display_name">Hesap adı</string>
+  <string name="w_sipgate_display_name_desc" ignore="UnusedResources">Bu hesap için görünen ad</string>
+  <string name="w_sipgate_username">SIP-ID(Kullanıcı adı)</string>
+  <string name="w_sipgate_username_desc" ignore="UnusedResources">Sipgate giriş farklı ! Lütfen sipgate web sitesinden SIP-ID(kullanıcı kimliğini) kontrol edin</string>
+  <string name="w_sipgate_password" ignore="UnusedResources">SIP Parola</string>
+  <string name="w_sipgate_password_desc" ignore="UnusedResources">Sipgate parola farklı ! Lütfen sipgate web sitesinden parolanızı kontrol edin</string>
+  <string name="w_sipgate_server_desc" ignore="UnusedResources">Bunun gibi bir şey : sipgate.co.uk</string>
+</resources>

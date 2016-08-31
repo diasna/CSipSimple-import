@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/acct_status_strings.xml -->
+    <eat-comment/>
+    <string name="acct_expired">Inregistrare expirata</string>
+    <string name="acct_inactive">Inactivă</string>
+    <string name="acct_regerror">Eroare in timpul inregistrarii</string>
+    <string name="acct_regfailed">Inregistrare esuata</string>
+    <string name="acct_registered">Înregistrat</string>
+    <string name="acct_registering">Inregistrare in curs…</string>
+    <string name="acct_unregistered">Neinregistrat</string>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/in_call_strings.xml -->
+    <eat-comment/>
+    <string name="add_call">Adauga un apel</string>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/filters_strings.xml -->
+    <eat-comment/>
+    <string name="auto_answer">Raspuns automat</string>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/in_call_strings.xml -->
+    <eat-comment/>
+    <string name="bluetooth">Bluetooth</string>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/log_strings.xml -->
+    <eat-comment/>
+    <string name="callAgain">Apeleaza inca odata</string>
+    <string name="callBack">Apeleaza inapoi</string>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/in_call_strings.xml -->
+    <eat-comment/>
+    <string name="call_state_calling">Se apelează…</string>
+    <string name="call_state_confirmed">Se Vorbește</string>
+    <string name="call_state_connecting">Se conectează…</string>
+    <string name="call_state_disconnected">Deconectare</string>
+    <string name="call_state_early">Suna…</string>
+    <string name="call_state_incoming">Intrare apel…</string>
+    <string name="call_state_null">Eroare</string>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/filters_strings.xml -->
+    <eat-comment/>
+    <string name="cant_call">Nu pot apela</string>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/in_call_strings.xml -->
+    <eat-comment/>
+    <string name="clear_call">Sfârşit</string>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/filters_strings.xml -->
+    <eat-comment/>
+    <string name="contains">Conține</string>
+    <string name="custom_regexp">Expresie regulata personalizata</string>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/in_call_strings.xml -->
+    <eat-comment/>
+    <string name="dialpad">Tastatură</string>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/filters_strings.xml -->
+    <eat-comment/>
+    <string name="direct_call">Apeleaza direct</string>
+    <string name="ends_with">Se termina cu</string>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/wizard_strings.xml -->
+    <eat-comment/>
+    <string name="generic_wizards_text">Asistent de instalare generic</string>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/filters_strings.xml -->
+    <eat-comment/>
+    <string name="has_exactly_n_digits">Are exact N poziții</string>
+    <string name="has_more_than_n_digits">Are mai mult de N poziții</string>
+    <string name="is_exactly">Este fix</string>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/in_call_strings.xml -->
+    <eat-comment/>
+    <string name="mute">Mut</string>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/wizard_strings.xml -->
+    <eat-comment/>
+    <string name="other_country_providers_text">Operatori din alte tari</string>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/in_call_strings.xml -->
+    <eat-comment/>
+    <string name="record">Înregistrare</string>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/filters_strings.xml -->
+    <eat-comment/>
+    <string name="replace_all_by">Inlocuieste tot cu</string>
+    <string name="replace_match_by">Inlocuieste cu</string>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/log_strings.xml -->
+    <eat-comment/>
+    <string name="returnCall">Apeleaza</string>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/filters_strings.xml -->
+    <eat-comment/>
+    <string name="rewrite">Rescriere</string>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/in_call_strings.xml -->
+    <eat-comment/>
+    <string name="speaker">Difuzor</string>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/filters_strings.xml -->
+    <eat-comment/>
+    <string name="starts_with">Incepe cu</string>
+    <string name="stop_processing">Opreste procesarea</string>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/in_call_strings.xml -->
+    <eat-comment/>
+    <string name="stop_recording">Opreste inregistrarea</string>
+    <string name="take_call">Răspunde</string>
+    <string name="touch_lock">Atingeţi de două ori pentru a debloca</string>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/log_strings.xml -->
+    <eat-comment/>
+    <string name="type_incoming">Primite</string>
+    <string name="type_missed">Pierdute</string>
+    <string name="type_outgoing">Iesiri</string>
+    <string name="unknown">Necunoscut</string>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/in_call_strings.xml -->
+    <eat-comment/>
+    <string name="unlock">Deblochează</string>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/wizard_common_strings.xml -->
+    <eat-comment/>
+    <string name="w_common_display_name">Nume cont</string>
+    <string name="w_common_display_name_desc">Numele acestui cont</string>
+    <string name="w_common_password">Parolă</string>
+    <string name="w_common_password_desc">Parola pentru contul dvs</string>
+    <string name="w_common_phone_number">Număr de telefon</string>
+    <string name="w_common_phone_number_desc">Număr SIP alocat de operator</string>
+    <string name="w_common_server">Server</string>
+    <string name="w_common_server_desc">SIP server /IP[:port]</string>
+    <string name="w_common_username">Nume utilizator</string>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/wizard_iinet_strings.xml -->
+    <eat-comment/>
+    <string name="w_iinet_password">Parolă VoIP specială</string>
+    <string name="w_iinet_password_desc">Nu e aceeaşi cu parola conexiunii</string>
+    <string name="w_iinet_state">Stare</string>
+    <string name="w_iinet_state_desc">Starea relevantă din lista următoare</string>
+    <string name="w_iinet_username">Numărul de telefon VoIP</string>
+    <string name="w_iinet_username_desc">Şterge orice formatare, cum ar fi spaţii şi cratime</string>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-ro/wizard_strings.xml -->
+    <eat-comment/>
+    <string name="world_wide_providers_text">Operatori din toata lumea</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-small/layout.xml -->
+    <eat-comment/>
+    <bool name="menu_in_bar">false</bool>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-small/in_call_values.xml -->
+    <eat-comment/>
+    <dimen name="incall_bottom_bar_height">36dip</dimen>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-small/layout.xml -->
+    <eat-comment/>
+    <integer name="dialpad_layout_weight_autocomplete_list">30</integer>
+    <!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/values-small/style.xml -->
+    <eat-comment/>
+    <style name="TextAppearance.SlidingTabActive" parent="@android:attr/textAppearanceMedium">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+</resources>

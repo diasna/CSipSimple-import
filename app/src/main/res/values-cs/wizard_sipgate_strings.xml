@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="w_sipgate_display_name">Název účtu</string>
+  <string  name="w_sipgate_display_name_desc" ignore="UnusedResources">Zobrazí název účtu</string>
+  <string name="w_sipgate_username">Sip ID</string>
+  <string  name="w_sipgate_username_desc" ignore="UnusedResources">Špatné jméno zkontrolujte nastavení na poskytovateli.</string>
+  <string  name="w_sipgate_password" ignore="UnusedResources">SIP heslo</string>
+  <string  name="w_sipgate_password_desc" ignore="UnusedResources">Špetné heslo, zkontrolujte na webu poskytovatele</string>
+  <string  name="w_sipgate_server_desc" ignore="UnusedResources">Něco jako : sip.poskytovatel.cz</string>
+</resources>

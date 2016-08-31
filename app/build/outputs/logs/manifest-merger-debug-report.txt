@@ -1,0 +1,875 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+	package
+		ADDED from AndroidManifest.xml:3:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:6:5
+	android:versionCode
+		ADDED from AndroidManifest.xml:5:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:installLocation
+		ADDED from AndroidManifest.xml:4:5
+uses-sdk
+ADDED from AndroidManifest.xml:8:5
+MERGED from com.actionbarsherlock:actionbarsherlock:4.4.0:3:3
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:10:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:9:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+supports-screens
+ADDED from AndroidManifest.xml:12:5
+	android:largeScreens
+		ADDED from AndroidManifest.xml:14:9
+	android:anyDensity
+		ADDED from AndroidManifest.xml:13:9
+	android:normalScreens
+		ADDED from AndroidManifest.xml:15:9
+	android:xlargeScreens
+		ADDED from AndroidManifest.xml:17:9
+	android:smallScreens
+		ADDED from AndroidManifest.xml:16:9
+uses-permission#android.permission.INTERNET
+ADDED from AndroidManifest.xml:19:5
+	android:name
+		ADDED from AndroidManifest.xml:19:22
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from AndroidManifest.xml:20:5
+	android:name
+		ADDED from AndroidManifest.xml:20:22
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from AndroidManifest.xml:21:5
+	android:name
+		ADDED from AndroidManifest.xml:21:22
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from AndroidManifest.xml:22:5
+	android:name
+		ADDED from AndroidManifest.xml:22:22
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from AndroidManifest.xml:23:5
+	android:name
+		ADDED from AndroidManifest.xml:23:22
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from AndroidManifest.xml:24:5
+	android:name
+		ADDED from AndroidManifest.xml:24:22
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from AndroidManifest.xml:25:5
+	android:name
+		ADDED from AndroidManifest.xml:25:22
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from AndroidManifest.xml:26:5
+	android:name
+		ADDED from AndroidManifest.xml:26:22
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from AndroidManifest.xml:27:5
+	android:name
+		ADDED from AndroidManifest.xml:27:22
+uses-permission#android.permission.READ_CONTACTS
+ADDED from AndroidManifest.xml:28:5
+	android:name
+		ADDED from AndroidManifest.xml:28:22
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from AndroidManifest.xml:29:5
+	android:name
+		ADDED from AndroidManifest.xml:29:22
+uses-permission#android.permission.CALL_PHONE
+ADDED from AndroidManifest.xml:30:5
+	android:name
+		ADDED from AndroidManifest.xml:30:22
+uses-permission#android.permission.WAKE_LOCK
+ADDED from AndroidManifest.xml:36:5
+	android:name
+		ADDED from AndroidManifest.xml:36:22
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from AndroidManifest.xml:37:5
+	android:name
+		ADDED from AndroidManifest.xml:37:22
+uses-permission#android.permission.VIBRATE
+ADDED from AndroidManifest.xml:38:5
+	android:name
+		ADDED from AndroidManifest.xml:38:22
+uses-permission#android.permission.BLUETOOTH
+ADDED from AndroidManifest.xml:39:5
+	android:name
+		ADDED from AndroidManifest.xml:39:22
+uses-permission#android.permission.READ_LOGS
+ADDED from AndroidManifest.xml:40:5
+	android:name
+		ADDED from AndroidManifest.xml:40:22
+uses-permission#android.permission.WRITE_CALL_LOG
+ADDED from AndroidManifest.xml:41:5
+	android:name
+		ADDED from AndroidManifest.xml:41:22
+uses-permission#android.permission.USE_SIP
+ADDED from AndroidManifest.xml:42:5
+	android:name
+		ADDED from AndroidManifest.xml:42:22
+uses-permission#android.permission.CONFIGURE_SIP
+ADDED from AndroidManifest.xml:43:5
+	android:name
+		ADDED from AndroidManifest.xml:43:22
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:44:5
+	android:name
+		ADDED from AndroidManifest.xml:44:22
+uses-permission#android.permission.CAMERA
+ADDED from AndroidManifest.xml:45:5
+	android:name
+		ADDED from AndroidManifest.xml:45:22
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from AndroidManifest.xml:46:5
+	android:name
+		ADDED from AndroidManifest.xml:46:22
+uses-permission#android.permission.READ_PROFILE
+ADDED from AndroidManifest.xml:47:5
+	android:name
+		ADDED from AndroidManifest.xml:47:22
+permission#android.permission.USE_SIP
+ADDED from AndroidManifest.xml:58:5
+	android:label
+		ADDED from AndroidManifest.xml:61:9
+	android:protectionLevel
+		ADDED from AndroidManifest.xml:63:9
+	android:description
+		ADDED from AndroidManifest.xml:60:9
+	android:permissionGroup
+		ADDED from AndroidManifest.xml:62:9
+	android:name
+		ADDED from AndroidManifest.xml:59:9
+permission#android.permission.CONFIGURE_SIP
+ADDED from AndroidManifest.xml:64:5
+	android:label
+		ADDED from AndroidManifest.xml:67:9
+	android:protectionLevel
+		ADDED from AndroidManifest.xml:69:9
+	android:description
+		ADDED from AndroidManifest.xml:66:9
+	android:permissionGroup
+		ADDED from AndroidManifest.xml:68:9
+	android:name
+		ADDED from AndroidManifest.xml:65:9
+uses-feature#android.hardware.wifi
+ADDED from AndroidManifest.xml:73:5
+	android:required
+		ADDED from AndroidManifest.xml:75:9
+	android:name
+		ADDED from AndroidManifest.xml:74:9
+uses-feature#android.hardware.telephony
+ADDED from AndroidManifest.xml:76:5
+	android:required
+		ADDED from AndroidManifest.xml:78:9
+	android:name
+		ADDED from AndroidManifest.xml:77:9
+uses-feature#android.hardware.microphone
+ADDED from AndroidManifest.xml:79:5
+	android:required
+		ADDED from AndroidManifest.xml:81:9
+	android:name
+		ADDED from AndroidManifest.xml:80:9
+uses-feature#android.hardware.touchscreen
+ADDED from AndroidManifest.xml:82:5
+	android:required
+		ADDED from AndroidManifest.xml:84:9
+	android:name
+		ADDED from AndroidManifest.xml:83:9
+uses-feature#android.hardware.bluetooth
+ADDED from AndroidManifest.xml:85:5
+	android:required
+		ADDED from AndroidManifest.xml:87:9
+	android:name
+		ADDED from AndroidManifest.xml:86:9
+uses-feature#android.hardware.screen.portrait
+ADDED from AndroidManifest.xml:88:5
+	android:required
+		ADDED from AndroidManifest.xml:90:9
+	android:name
+		ADDED from AndroidManifest.xml:89:9
+uses-feature#android.hardware.camera
+ADDED from AndroidManifest.xml:91:5
+	android:required
+		ADDED from AndroidManifest.xml:93:9
+	android:name
+		ADDED from AndroidManifest.xml:92:9
+uses-feature#android.hardware.camera.autofocus
+ADDED from AndroidManifest.xml:94:5
+	android:required
+		ADDED from AndroidManifest.xml:96:9
+	android:name
+		ADDED from AndroidManifest.xml:95:9
+uses-feature#android.hardware.camera.flash
+ADDED from AndroidManifest.xml:97:5
+	android:required
+		ADDED from AndroidManifest.xml:99:9
+	android:name
+		ADDED from AndroidManifest.xml:98:9
+uses-feature#android.hardware.camera.front
+ADDED from AndroidManifest.xml:100:5
+	android:required
+		ADDED from AndroidManifest.xml:102:9
+	android:name
+		ADDED from AndroidManifest.xml:101:9
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:104:5
+	android:maxSdkVersion
+		ADDED from AndroidManifest.xml:106:9
+	android:name
+		ADDED from AndroidManifest.xml:105:9
+application
+ADDED from AndroidManifest.xml:108:5
+MERGED from com.actionbarsherlock:actionbarsherlock:4.4.0:4:3
+	android:label
+		ADDED from AndroidManifest.xml:113:9
+	android:allowBackup
+		ADDED from AndroidManifest.xml:109:9
+	android:icon
+		ADDED from AndroidManifest.xml:112:9
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:111:9
+	android:backupAgent
+		ADDED from AndroidManifest.xml:110:9
+meta-data#app_type
+ADDED from AndroidManifest.xml:114:9
+	android:name
+		ADDED from AndroidManifest.xml:115:13
+	android:value
+		ADDED from AndroidManifest.xml:116:13
+meta-data#app_channel
+ADDED from AndroidManifest.xml:117:9
+	android:name
+		ADDED from AndroidManifest.xml:118:13
+	android:value
+		ADDED from AndroidManifest.xml:119:13
+meta-data#com.google.android.backup.api_key
+ADDED from AndroidManifest.xml:120:9
+	android:name
+		ADDED from AndroidManifest.xml:121:13
+	android:value
+		ADDED from AndroidManifest.xml:122:13
+meta-data#com.sec.android.support.multiwindow
+ADDED from AndroidManifest.xml:130:9
+	android:name
+		ADDED from AndroidManifest.xml:131:13
+	android:value
+		ADDED from AndroidManifest.xml:132:13
+activity#com.csipsimple.ui.SipHome
+ADDED from AndroidManifest.xml:134:9
+	android:name
+		ADDED from AndroidManifest.xml:134:19
+activity#com.csipsimple.ui.extension.LoginActivity
+ADDED from AndroidManifest.xml:136:9
+	android:theme
+		ADDED from AndroidManifest.xml:138:13
+	android:name
+		ADDED from AndroidManifest.xml:137:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from AndroidManifest.xml:139:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:140:17
+	android:name
+		ADDED from AndroidManifest.xml:140:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:142:17
+	android:name
+		ADDED from AndroidManifest.xml:142:27
+category#android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from AndroidManifest.xml:143:17
+	android:name
+		ADDED from AndroidManifest.xml:143:27
+activity#com.csipsimple.ui.extension.MainActivity
+ADDED from AndroidManifest.xml:146:9
+	android:theme
+		ADDED from AndroidManifest.xml:148:13
+	android:name
+		ADDED from AndroidManifest.xml:147:13
+activity#com.csipsimple.ui.DiasIncallActivity
+ADDED from AndroidManifest.xml:150:9
+	android:configChanges
+		ADDED from AndroidManifest.xml:153:13
+	android:theme
+		ADDED from AndroidManifest.xml:159:13
+	android:process
+		ADDED from AndroidManifest.xml:157:13
+	android:allowTaskReparenting
+		ADDED from AndroidManifest.xml:152:13
+	android:permission
+		ADDED from AndroidManifest.xml:156:13
+	android:excludeFromRecents
+		ADDED from AndroidManifest.xml:154:13
+	android:taskAffinity
+		ADDED from AndroidManifest.xml:158:13
+	android:name
+		ADDED from AndroidManifest.xml:151:13
+	android:launchMode
+		ADDED from AndroidManifest.xml:155:13
+intent-filter#android.intent.category.DEFAULT+com.csipsimple.phone.action.INCALL
+ADDED from AndroidManifest.xml:160:13
+	android:priority
+		ADDED from AndroidManifest.xml:160:28
+action#com.csipsimple.phone.action.INCALL
+ADDED from AndroidManifest.xml:161:17
+	android:name
+		ADDED from AndroidManifest.xml:161:25
+category#android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:163:17
+	android:name
+		ADDED from AndroidManifest.xml:163:27
+activity#com.csipsimple.ui.extension.CallDetail
+ADDED from AndroidManifest.xml:166:9
+	android:theme
+		ADDED from AndroidManifest.xml:168:13
+	android:name
+		ADDED from AndroidManifest.xml:167:13
+activity#com.csipsimple.ui.CustomHome
+ADDED from AndroidManifest.xml:170:9
+	android:label
+		ADDED from AndroidManifest.xml:172:13
+	android:uiOptions
+		ADDED from AndroidManifest.xml:175:13
+	android:theme
+		ADDED from AndroidManifest.xml:174:13
+	android:name
+		ADDED from AndroidManifest.xml:171:13
+	android:launchMode
+		ADDED from AndroidManifest.xml:173:13
+intent-filter#android.intent.category.DEFAULT+com.csipsimple.phone.action.DIALER
+ADDED from AndroidManifest.xml:178:13
+	android:priority
+		ADDED from AndroidManifest.xml:178:28
+action#com.csipsimple.phone.action.DIALER
+ADDED from AndroidManifest.xml:179:17
+	android:name
+		ADDED from AndroidManifest.xml:179:25
+intent-filter#android.intent.action.DIAL+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:183:13
+	android:priority
+		ADDED from AndroidManifest.xml:183:28
+action#android.intent.action.DIAL
+ADDED from AndroidManifest.xml:184:17
+	android:name
+		ADDED from AndroidManifest.xml:184:25
+data
+ADDED from AndroidManifest.xml:188:17
+	android:scheme
+		ADDED from AndroidManifest.xml:188:23
+intent-filter#android.intent.category.DEFAULT+com.csipsimple.phone.action.CALLLOG
+ADDED from AndroidManifest.xml:191:13
+	android:priority
+		ADDED from AndroidManifest.xml:191:28
+action#com.csipsimple.phone.action.CALLLOG
+ADDED from AndroidManifest.xml:192:17
+	android:name
+		ADDED from AndroidManifest.xml:192:25
+intent-filter#android.intent.category.DEFAULT+com.csipsimple.phone.action.FAVORITES
+ADDED from AndroidManifest.xml:196:13
+	android:priority
+		ADDED from AndroidManifest.xml:196:28
+action#com.csipsimple.phone.action.FAVORITES
+ADDED from AndroidManifest.xml:197:17
+	android:name
+		ADDED from AndroidManifest.xml:197:25
+intent-filter#android.intent.category.DEFAULT+com.csipsimple.phone.action.MESSAGES
+ADDED from AndroidManifest.xml:201:13
+	android:priority
+		ADDED from AndroidManifest.xml:201:28
+action#com.csipsimple.phone.action.MESSAGES
+ADDED from AndroidManifest.xml:202:17
+	android:name
+		ADDED from AndroidManifest.xml:202:25
+activity-alias#com.csipsimple.ui.SipDialer
+ADDED from AndroidManifest.xml:207:9
+	android:label
+		ADDED from AndroidManifest.xml:209:13
+	android:uiOptions
+		ADDED from AndroidManifest.xml:213:13
+	android:theme
+		ADDED from AndroidManifest.xml:212:13
+	android:targetActivity
+		ADDED from AndroidManifest.xml:211:13
+	android:name
+		ADDED from AndroidManifest.xml:208:13
+	android:launchMode
+		ADDED from AndroidManifest.xml:210:13
+intent-filter#android.intent.action.SENDTO+android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:214:13
+action#android.intent.action.VIEW
+ADDED from AndroidManifest.xml:215:17
+	android:name
+		ADDED from AndroidManifest.xml:215:25
+action#android.intent.action.SENDTO
+ADDED from AndroidManifest.xml:216:17
+	android:name
+		ADDED from AndroidManifest.xml:216:25
+category#android.intent.category.BROWSABLE
+ADDED from AndroidManifest.xml:219:17
+	android:name
+		ADDED from AndroidManifest.xml:219:27
+service#com.csipsimple.service.SipService
+ADDED from AndroidManifest.xml:248:9
+	android:process
+		ADDED from AndroidManifest.xml:252:13
+	android:exported
+		ADDED from AndroidManifest.xml:250:13
+	android:permission
+		ADDED from AndroidManifest.xml:251:13
+	android:name
+		ADDED from AndroidManifest.xml:249:13
+intent-filter#com.csipsimple.service.SipConfiguration+com.csipsimple.service.SipService
+ADDED from AndroidManifest.xml:253:13
+action#com.csipsimple.service.SipService
+ADDED from AndroidManifest.xml:254:17
+	android:name
+		ADDED from AndroidManifest.xml:254:25
+action#com.csipsimple.service.SipConfiguration
+ADDED from AndroidManifest.xml:255:17
+	android:name
+		ADDED from AndroidManifest.xml:255:25
+service#com.csipsimple.service.Downloader
+ADDED from AndroidManifest.xml:258:9
+	android:name
+		ADDED from AndroidManifest.xml:258:18
+receiver#com.csipsimple.service.DeviceStateReceiver
+ADDED from AndroidManifest.xml:260:9
+	android:process
+		ADDED from AndroidManifest.xml:263:13
+	android:permission
+		ADDED from AndroidManifest.xml:262:13
+	android:name
+		ADDED from AndroidManifest.xml:261:13
+intent-filter#android.intent.action.BOOT_COMPLETED+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from AndroidManifest.xml:266:13
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from AndroidManifest.xml:267:17
+	android:name
+		ADDED from AndroidManifest.xml:267:25
+action#android.intent.action.BOOT_COMPLETED
+ADDED from AndroidManifest.xml:268:17
+	android:name
+		ADDED from AndroidManifest.xml:268:25
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from AndroidManifest.xml:270:13
+action#android.intent.action.PACKAGE_ADDED
+ADDED from AndroidManifest.xml:271:17
+	android:name
+		ADDED from AndroidManifest.xml:271:25
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from AndroidManifest.xml:272:17
+	android:name
+		ADDED from AndroidManifest.xml:272:25
+intent-filter#com.csipsimple.accounts.activate
+ADDED from AndroidManifest.xml:276:13
+action#com.csipsimple.accounts.activate
+ADDED from AndroidManifest.xml:277:17
+	android:name
+		ADDED from AndroidManifest.xml:277:25
+activity#com.csipsimple.ui.calllog.CallLogDetailsActivity
+ADDED from AndroidManifest.xml:282:9
+	android:theme
+		ADDED from AndroidManifest.xml:284:13
+	android:name
+		ADDED from AndroidManifest.xml:283:13
+activity#com.csipsimple.ui.filters.AccountFilters
+ADDED from AndroidManifest.xml:287:9
+	android:label
+		ADDED from AndroidManifest.xml:290:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:289:13
+	android:theme
+		ADDED from AndroidManifest.xml:291:13
+	android:name
+		ADDED from AndroidManifest.xml:288:13
+activity#com.csipsimple.ui.filters.EditFilter
+ADDED from AndroidManifest.xml:292:9
+	android:label
+		ADDED from AndroidManifest.xml:295:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:294:13
+	android:theme
+		ADDED from AndroidManifest.xml:296:13
+	android:name
+		ADDED from AndroidManifest.xml:293:13
+activity#com.csipsimple.wizards.WizardChooser
+ADDED from AndroidManifest.xml:297:9
+	android:label
+		ADDED from AndroidManifest.xml:300:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:299:13
+	android:theme
+		ADDED from AndroidManifest.xml:301:13
+	android:name
+		ADDED from AndroidManifest.xml:298:13
+activity#com.csipsimple.ui.prefs.hc.MainPrefs
+ADDED from AndroidManifest.xml:304:9
+	android:label
+		ADDED from AndroidManifest.xml:308:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:306:13
+	android:theme
+		ADDED from AndroidManifest.xml:310:13
+	android:enabled
+		ADDED from AndroidManifest.xml:307:13
+	android:permission
+		ADDED from AndroidManifest.xml:309:13
+	android:name
+		ADDED from AndroidManifest.xml:305:13
+intent-filter#android.intent.category.DEFAULT+com.csipsimple.ui.action.PREFS_GLOBAL
+ADDED from AndroidManifest.xml:311:13
+action#com.csipsimple.ui.action.PREFS_GLOBAL
+ADDED from AndroidManifest.xml:312:17
+	android:name
+		ADDED from AndroidManifest.xml:312:25
+activity#com.csipsimple.ui.prefs.cupcake.MainPrefs
+ADDED from AndroidManifest.xml:317:9
+	android:label
+		ADDED from AndroidManifest.xml:321:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:319:13
+	android:theme
+		ADDED from AndroidManifest.xml:323:13
+	android:enabled
+		ADDED from AndroidManifest.xml:320:13
+	android:permission
+		ADDED from AndroidManifest.xml:322:13
+	android:name
+		ADDED from AndroidManifest.xml:318:13
+activity#com.csipsimple.ui.prefs.cupcake.PrefsLoaderActivity
+ADDED from AndroidManifest.xml:330:9
+	android:label
+		ADDED from AndroidManifest.xml:332:13
+	android:theme
+		ADDED from AndroidManifest.xml:333:13
+	android:name
+		ADDED from AndroidManifest.xml:331:13
+activity#com.csipsimple.ui.prefs.PrefsFilters
+ADDED from AndroidManifest.xml:334:9
+	android:label
+		ADDED from AndroidManifest.xml:337:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:336:13
+	android:theme
+		ADDED from AndroidManifest.xml:338:13
+	android:name
+		ADDED from AndroidManifest.xml:335:13
+activity#com.csipsimple.ui.prefs.PrefsFast
+ADDED from AndroidManifest.xml:339:9
+	android:label
+		ADDED from AndroidManifest.xml:342:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:341:13
+	android:theme
+		ADDED from AndroidManifest.xml:344:13
+	android:permission
+		ADDED from AndroidManifest.xml:343:13
+	android:name
+		ADDED from AndroidManifest.xml:340:13
+intent-filter#android.intent.category.DEFAULT+com.csipsimple.ui.action.PREFS_FAST
+ADDED from AndroidManifest.xml:345:13
+action#com.csipsimple.ui.action.PREFS_FAST
+ADDED from AndroidManifest.xml:346:17
+	android:name
+		ADDED from AndroidManifest.xml:346:25
+activity#com.csipsimple.ui.prefs.Codecs
+ADDED from AndroidManifest.xml:351:9
+	android:label
+		ADDED from AndroidManifest.xml:354:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:353:13
+	android:theme
+		ADDED from AndroidManifest.xml:355:13
+	android:name
+		ADDED from AndroidManifest.xml:352:13
+activity#com.csipsimple.ui.prefs.AudioTester
+ADDED from AndroidManifest.xml:356:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:359:13
+	android:label
+		ADDED from AndroidManifest.xml:358:13
+	android:theme
+		ADDED from AndroidManifest.xml:360:13
+	android:name
+		ADDED from AndroidManifest.xml:357:13
+activity#com.csipsimple.wizards.BasePrefsWizard
+ADDED from AndroidManifest.xml:363:9
+	android:label
+		ADDED from AndroidManifest.xml:366:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:365:13
+	android:theme
+		ADDED from AndroidManifest.xml:367:13
+	android:name
+		ADDED from AndroidManifest.xml:364:13
+receiver#com.csipsimple.service.OutgoingCall
+ADDED from AndroidManifest.xml:370:9
+	android:process
+		ADDED from AndroidManifest.xml:373:13
+	android:permission
+		ADDED from AndroidManifest.xml:372:13
+	android:name
+		ADDED from AndroidManifest.xml:371:13
+intent-filter#android.intent.action.NEW_OUTGOING_CALL
+ADDED from AndroidManifest.xml:376:13
+	android:priority
+		ADDED from AndroidManifest.xml:376:28
+action#android.intent.action.NEW_OUTGOING_CALL
+ADDED from AndroidManifest.xml:377:17
+	android:name
+		ADDED from AndroidManifest.xml:377:25
+activity#com.csipsimple.ui.outgoingcall.OutgoingCallChooser
+ADDED from AndroidManifest.xml:381:9
+	android:label
+		ADDED from AndroidManifest.xml:386:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:384:13
+	android:theme
+		ADDED from AndroidManifest.xml:391:13
+	android:process
+		ADDED from AndroidManifest.xml:389:13
+	android:allowTaskReparenting
+		ADDED from AndroidManifest.xml:383:13
+	android:permission
+		ADDED from AndroidManifest.xml:388:13
+	android:excludeFromRecents
+		ADDED from AndroidManifest.xml:385:13
+	android:taskAffinity
+		ADDED from AndroidManifest.xml:390:13
+	android:name
+		ADDED from AndroidManifest.xml:382:13
+	android:launchMode
+		ADDED from AndroidManifest.xml:387:13
+intent-filter#android.intent.action.CALL+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:392:13
+action#android.intent.action.CALL
+ADDED from AndroidManifest.xml:393:17
+	android:name
+		ADDED from AndroidManifest.xml:393:25
+intent-filter#android.intent.category.DEFAULT+android.phone.extra.NEW_CALL_INTENT
+ADDED from AndroidManifest.xml:401:13
+	android:priority
+		ADDED from AndroidManifest.xml:401:28
+action#android.phone.extra.NEW_CALL_INTENT
+ADDED from AndroidManifest.xml:402:17
+	android:name
+		ADDED from AndroidManifest.xml:402:25
+activity-alias#com.csipsimple.ui.PrivilegedOutgoingSipCallBroadcaster
+ADDED from AndroidManifest.xml:412:9
+	android:configChanges
+		ADDED from AndroidManifest.xml:414:13
+	android:theme
+		ADDED from AndroidManifest.xml:419:13
+	android:permission
+		ADDED from AndroidManifest.xml:417:13
+	android:excludeFromRecents
+		ADDED from AndroidManifest.xml:415:13
+	android:targetActivity
+		ADDED from AndroidManifest.xml:418:13
+	android:name
+		ADDED from AndroidManifest.xml:413:13
+	android:launchMode
+		ADDED from AndroidManifest.xml:416:13
+intent-filter#android.intent.action.CALL_PRIVILEGED+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:420:13
+action#android.intent.action.CALL_PRIVILEGED
+ADDED from AndroidManifest.xml:421:17
+	android:name
+		ADDED from AndroidManifest.xml:421:25
+activity-alias#com.csipsimple.ui.PrivilegedOutgoingCallBroadcaster
+ADDED from AndroidManifest.xml:428:9
+	android:label
+		ADDED from AndroidManifest.xml:433:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:430:13
+	android:theme
+		ADDED from AndroidManifest.xml:437:13
+	android:enabled
+		ADDED from AndroidManifest.xml:431:13
+	android:permission
+		ADDED from AndroidManifest.xml:435:13
+	android:excludeFromRecents
+		ADDED from AndroidManifest.xml:432:13
+	android:targetActivity
+		ADDED from AndroidManifest.xml:436:13
+	android:name
+		ADDED from AndroidManifest.xml:429:13
+	android:launchMode
+		ADDED from AndroidManifest.xml:434:13
+intent-filter#android.intent.action.SENDTO+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:454:13
+activity#com.csipsimple.ui.PickupSipUri
+ADDED from AndroidManifest.xml:467:9
+	android:label
+		ADDED from AndroidManifest.xml:470:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:469:13
+	android:theme
+		ADDED from AndroidManifest.xml:471:13
+	android:name
+		ADDED from AndroidManifest.xml:468:13
+activity#com.csipsimple.ui.incall.InCallMediaControl
+ADDED from AndroidManifest.xml:472:9
+	android:label
+		ADDED from AndroidManifest.xml:475:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:474:13
+	android:theme
+		ADDED from AndroidManifest.xml:477:13
+	android:taskAffinity
+		ADDED from AndroidManifest.xml:476:13
+	android:name
+		ADDED from AndroidManifest.xml:473:13
+receiver#com.csipsimple.service.HeadsetButtonReceiver
+ADDED from AndroidManifest.xml:479:9
+	android:name
+		ADDED from AndroidManifest.xml:479:19
+receiver#com.csipsimple.widgets.AccountWidgetProvider
+ADDED from AndroidManifest.xml:482:9
+	android:label
+		ADDED from AndroidManifest.xml:485:13
+	android:icon
+		ADDED from AndroidManifest.xml:484:13
+	android:name
+		ADDED from AndroidManifest.xml:483:13
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE+com.csipsimple.service.ACCOUNT_CHANGED+com.csipsimple.service.REGISTRATION_CHANGED
+ADDED from AndroidManifest.xml:486:13
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from AndroidManifest.xml:487:17
+	android:name
+		ADDED from AndroidManifest.xml:487:25
+action#com.csipsimple.service.ACCOUNT_CHANGED
+ADDED from AndroidManifest.xml:488:17
+	android:name
+		ADDED from AndroidManifest.xml:488:25
+action#com.csipsimple.service.REGISTRATION_CHANGED
+ADDED from AndroidManifest.xml:489:17
+	android:name
+		ADDED from AndroidManifest.xml:489:25
+meta-data#android.appwidget.provider
+ADDED from AndroidManifest.xml:492:13
+	android:resource
+		ADDED from AndroidManifest.xml:494:17
+	android:name
+		ADDED from AndroidManifest.xml:493:17
+activity#com.csipsimple.widgets.AccountWidgetConfigure
+ADDED from AndroidManifest.xml:497:9
+	android:theme
+		ADDED from AndroidManifest.xml:499:13
+	android:name
+		ADDED from AndroidManifest.xml:498:13
+intent-filter#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from AndroidManifest.xml:500:13
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from AndroidManifest.xml:501:17
+	android:name
+		ADDED from AndroidManifest.xml:501:25
+receiver#com.csipsimple.widgets.ShortcutWidgetProvider
+ADDED from AndroidManifest.xml:505:9
+	android:label
+		ADDED from AndroidManifest.xml:508:13
+	android:icon
+		ADDED from AndroidManifest.xml:507:13
+	android:name
+		ADDED from AndroidManifest.xml:506:13
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from AndroidManifest.xml:509:13
+activity#com.csipsimple.widgets.ShortcutWidgetConfigure
+ADDED from AndroidManifest.xml:518:9
+	android:theme
+		ADDED from AndroidManifest.xml:520:13
+	android:name
+		ADDED from AndroidManifest.xml:519:13
+activity#com.csipsimple.ui.messages.MessageActivity
+ADDED from AndroidManifest.xml:527:9
+	android:windowSoftInputMode
+		ADDED from AndroidManifest.xml:532:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:529:13
+	android:theme
+		ADDED from AndroidManifest.xml:531:13
+	android:name
+		ADDED from AndroidManifest.xml:528:13
+	android:launchMode
+		ADDED from AndroidManifest.xml:530:13
+receiver#com.csipsimple.plugins.telephony.CallHandler
+ADDED from AndroidManifest.xml:536:9
+	android:process
+		ADDED from AndroidManifest.xml:539:13
+	android:permission
+		ADDED from AndroidManifest.xml:538:13
+	android:name
+		ADDED from AndroidManifest.xml:537:13
+intent-filter#com.csipsimple.phone.action.HANDLE_CALL
+ADDED from AndroidManifest.xml:540:13
+action#com.csipsimple.phone.action.HANDLE_CALL
+ADDED from AndroidManifest.xml:541:17
+	android:name
+		ADDED from AndroidManifest.xml:541:25
+provider#com.csipsimple.service.PreferenceProvider
+ADDED from AndroidManifest.xml:546:9
+	android:authorities
+		ADDED from AndroidManifest.xml:548:13
+	android:permission
+		ADDED from AndroidManifest.xml:549:13
+	android:name
+		ADDED from AndroidManifest.xml:547:13
+provider#com.csipsimple.db.DBProvider
+ADDED from AndroidManifest.xml:550:9
+	android:process
+		ADDED from AndroidManifest.xml:554:13
+	android:authorities
+		ADDED from AndroidManifest.xml:552:13
+	android:permission
+		ADDED from AndroidManifest.xml:553:13
+	android:name
+		ADDED from AndroidManifest.xml:551:13
+activity#com.csipsimple.ui.account.AccountsEditList
+ADDED from AndroidManifest.xml:557:9
+	android:label
+		ADDED from AndroidManifest.xml:559:13
+	android:theme
+		ADDED from AndroidManifest.xml:560:13
+	android:name
+		ADDED from AndroidManifest.xml:558:13
+activity#com.csipsimple.ui.account.AccountEdit
+ADDED from AndroidManifest.xml:561:9
+	android:theme
+		ADDED from AndroidManifest.xml:563:13
+	android:name
+		ADDED from AndroidManifest.xml:562:13
+receiver#com.csipsimple.plugins.codecs.ReceiverSILK
+ADDED from AndroidManifest.xml:567:9
+	android:exported
+		ADDED from AndroidManifest.xml:569:13
+	android:name
+		ADDED from AndroidManifest.xml:568:13
+meta-data#lib_name
+ADDED from AndroidManifest.xml:570:13
+	android:name
+		ADDED from AndroidManifest.xml:571:17
+	android:value
+		ADDED from AndroidManifest.xml:572:17
+meta-data#init_factory
+ADDED from AndroidManifest.xml:573:13
+	android:name
+		ADDED from AndroidManifest.xml:574:17
+	android:value
+		ADDED from AndroidManifest.xml:575:17
+intent-filter#com.csipsimple.codecs.action.REGISTER_CODEC
+ADDED from AndroidManifest.xml:577:13
+action#com.csipsimple.codecs.action.REGISTER_CODEC
+ADDED from AndroidManifest.xml:578:17
+	android:name
+		ADDED from AndroidManifest.xml:578:25
+activity#com.csipsimple.wizards.impl.MondotalkCreate
+ADDED from AndroidManifest.xml:585:9
+	android:theme
+		ADDED from AndroidManifest.xml:587:13
+	android:name
+		ADDED from AndroidManifest.xml:586:13

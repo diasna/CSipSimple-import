@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mikudayo/Labs/Android/CSipSimple-import/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="/Users/mikudayo/Labs/Android/CSipSimple-import/app/build/intermediates/pre-dexed/debug/classes-8fc018a041005016462736a085c95d233422917a.jar" />
+    </item>
+    <item
+        jar="/Users/mikudayo/Apps/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/mikudayo/Labs/Android/CSipSimple-import/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-e31d1ed421a9ded630e04cc39783af3a6d438e75.jar" />
+    </item>
+
+</items>

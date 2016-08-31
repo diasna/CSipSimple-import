@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient 
+        android:startColor="#008c8c8c" 
+        android:endColor="#448c8c8c"
+        android:angle="0"
+        android:dither="true"
+     />
+</shape>
+<!-- From: file:/Users/mikudayo/Labs/Android/CSipSimple-import/app/src/main/res/drawable/grey_right_gradient.xml -->
